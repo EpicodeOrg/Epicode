@@ -2,7 +2,7 @@
 
 Bienvenue sur Epicode, l’éditeur de code développé par des étudiants pour des étudiants à l'école Epitech. Conçu pour répondre aux besoins spécifiques des apprenants en programmation, Epicode allie simplicité et efficacité.
 
-Caractéristiques principales :
+# Caractéristiques principales :
 Interface intuitive : Une navigation fluide qui permet aux utilisateurs de se concentrer sur le code sans distractions.
 Support multi-langages : Que vous soyez en train de coder en C, Python, Java ou tout autre langage, Epicode offre un environnement adapté.
 Collaboration facilitée : Partagez votre code facilement avec vos camarades, travaillez ensemble en temps réel et améliorez vos projets collectifs.
