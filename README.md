@@ -1,4 +1,4 @@
-Présentation d'Epicode
+# Présentation d'Epicode
 
 Bienvenue sur Epicode, l’éditeur de code développé par des étudiants pour des étudiants à l'école Epitech. Conçu pour répondre aux besoins spécifiques des apprenants en programmation, Epicode allie simplicité et efficacité.
 
